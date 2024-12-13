@@ -15,15 +15,15 @@ I am a results-oriented data professional with strong skills in Data Science, Da
 ## 💼 Experience  
 - **Machine Learning Engineer**, [Caliper](https://www.caliper.care/) (2024 - Present)  
 - **Data Scientist Intern**, [UCSF Health](https://psych.ucsf.edu/) (2023 - 2024)  
-- **Data Analyst**, [iQiyi](https://www.iq.com/?lang=en_us) (2021)  
-- **Business Analyst**, [Tencent](https://wetv.vip/en) (2020)  
-- **Strategy Analyst**, [Baidu Finance](https://www.duxiaoman.com/) (2019 - 2020)  
+- **Data Analyst Intern**, [iQiyi](https://www.iq.com/?lang=en_us) (2021)  
+- **Business Analyst Intern**, [Tencent](https://wetv.vip/en) (2020)  
+- **Strategy Analyst Intern**, [Baidu Finance](https://www.duxiaoman.com/) (2019 - 2020)  
 
 ---
 
 ## 💭 Projects  
 
-### NLP and Machine Learning Projects  
+### NLP and LLM Projects  
 - **[Transformer Project](https://github.com/christawxp/transformer-project)**: Implemented a multi-task Transformer model for sentence classification and sentiment analysis with advanced learning rate strategies.  
 - **[RehearsAI](https://github.com/christawxp/RehearsAI-server)**: Built an AI-powered mock interview platform integrating STT, TTS, and Generative AI for enhanced user coaching.  
 
