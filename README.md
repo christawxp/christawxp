@@ -23,9 +23,10 @@ I am a results-oriented data professional with strong skills in Data Science, Da
 
 ## 💭 Projects  
 
-### NLP and LLM Projects  
-- **[Transformer Project](https://github.com/christawxp/transformer-project)**: Implemented a multi-task Transformer model for sentence classification and sentiment analysis with advanced learning rate strategies.  
-- **[RehearsAI](https://github.com/christawxp/RehearsAI-server)**: Built an AI-powered mock interview platform integrating STT, TTS, and Generative AI for enhanced user coaching.  
+### NLP and LLM Projects
+- **[The Story Weaver](https://chatgpt.com/g/g-67858330e6cc81919bd8d928b5e5f86a-the-story-weaver)**: Developed an AI-powered storytelling platform using advanced prompt engineering to assist writers in crafting 15,000-word short novels. The tool generates tailored ideas, plot twists, and character development suggestions, blending AI-driven creativity with personalized writing support.
+- **[RehearsAI](https://github.com/christawxp/RehearsAI-server)**: Built an AI-powered mock interview platform integrating STT, TTS, and Generative AI for enhanced user coaching.
+- **[Transformer Project](https://github.com/christawxp/transformer-project)**: Implemented a multi-task Transformer model for sentence classification and sentiment analysis with advanced learning rate strategies.
 
 ### Big Data and Distributed System Projects  
 - **[Distributed Recommendation System](https://github.com/christawxp/Distributed_Recommendation_System)**: Designed a content recommendation system using Apache Airflow, MongoDB, and GCS to generate personalized recommendations.  
