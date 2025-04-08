@@ -29,7 +29,7 @@ I am a results-oriented data professional with strong skills in Data Science, Da
 - **[Transformer Project](https://github.com/christawxp/transformer-project)**: Implemented a multi-task Transformer model for sentence classification and sentiment analysis with advanced learning rate strategies.
 
 ### Big Data and Distributed System Projects  
-- **[Distributed Recommendation System](https://github.com/christawxp/Distributed_Recommendation_System)**: Designed a content recommendation system using Apache Airflow, MongoDB, and GCS to generate personalized recommendations.  [Integrating Multiple Cloud Platforms to Build a Data Pipeline for Recommendation Systems](https://ieeexplore.ieee.org/document/10881634), indexed and available on [IEEE](https://www.linkedin.com/company/ieee/)
+- **[Distributed Recommendation System](https://github.com/christawxp/Distributed_Recommendation_System)**: Designed a content recommendation system using Apache Airflow, MongoDB, and GCS to generate personalized recommendations. The paper: [Integrating Multiple Cloud Platforms to Build a Data Pipeline for Recommendation Systems](https://ieeexplore.ieee.org/document/10881634), indexed and available on [IEEE](https://www.linkedin.com/company/ieee/)
 - **[COVID-19 Policy Impact Analysis](https://github.com/christawxp/COVID19_Policy_Impact_Analysis)**: Leveraged PySpark to analyze the effects of COVID-19 policies on case and death trends.  
 
 ### Forecasting and Prediction Projects  
